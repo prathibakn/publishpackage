@@ -1,4 +1,7 @@
 {
-  "your": "json config here"
+  "your": "json config here",
+  "publishConfig": {
+  "registry":"https://npm.pkg.github.com"
+  },
   "name": "prathibakn/test"
 }
